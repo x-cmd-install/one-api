@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 67948352,
       "digest": null,
-      "download_count": 20081,
+      "download_count": 20106,
       "created_at": "2024-12-27T14:09:19Z",
       "updated_at": "2024-12-27T14:09:21Z",
       "browser_download_url": "https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 66692416,
       "digest": null,
-      "download_count": 4337,
+      "download_count": 4344,
       "created_at": "2024-12-27T14:09:19Z",
       "updated_at": "2024-12-27T14:09:22Z",
       "browser_download_url": "https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 81310226,
       "digest": null,
-      "download_count": 3329,
+      "download_count": 3335,
       "created_at": "2024-12-27T14:10:07Z",
       "updated_at": "2024-12-27T14:10:11Z",
       "browser_download_url": "https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-macos"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 36945408,
       "digest": null,
-      "download_count": 23282,
+      "download_count": 23316,
       "created_at": "2024-12-27T14:05:45Z",
       "updated_at": "2024-12-27T14:05:46Z",
       "browser_download_url": "https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api.exe"
