@@ -23,11 +23,19 @@ x install one-api
 - **Latest**: `v0.6.10` (2025-02-02)
 - **Last commit**: 2025-02-21
 - **Assets in release**: 4
-- **Published**: 2025-02-02T12:29:38Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [one-api](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api) | 64.8 MiB | `other` |
+| [one-api-arm64](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-arm64) | 63.6 MiB | `other` |
+| [one-api-macos](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-macos) | 77.5 MiB | `native/darwin/x64` |
+| [one-api.exe](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api.exe) | 35.2 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 36,813 · **Forks**: 6,854 · **Open issues**: 1,829 · **Contributors**: 135
+- **Stars**: 36,839 · **Forks**: 6,856 · **Open issues**: 1,829 · **Contributors**: 135
 
 ## Totals (cumulative)
 
@@ -58,8 +66,8 @@ Total: **52,956** lines of code across **509** files in the top 5 languages.
 Install metadata for one-api lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `one-api` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/one-api.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/one-api.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:33:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:50Z._

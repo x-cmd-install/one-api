@@ -4,7 +4,7 @@
 
 LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
-![one-api](https://repo.x-cmd.io/one-api.svg)
+![one-api](https://repo.x-cmd.io/one-api.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,19 @@ x install one-api
 - **最新版本**: `v0.6.10` (2025-02-02)
 - **最近提交**: 2025-02-21
 - **Release 含资产**: 4 个
-- **发布时间**: 2025-02-02T12:29:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [one-api](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api) | 64.8 MiB | `other` |
+| [one-api-arm64](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-arm64) | 63.6 MiB | `other` |
+| [one-api-macos](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-macos) | 77.5 MiB | `native/darwin/x64` |
+| [one-api.exe](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api.exe) | 35.2 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 36,813 · **Fork**: 6,854 · **开放 issue**: 1,829 · **贡献者**: 135
+- **Star**: 36,839 · **Fork**: 6,856 · **开放 issue**: 1,829 · **贡献者**: 135
 
 ## 累计统计
 
@@ -62,4 +70,4 @@ one-api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:33:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:56:50Z._
