@@ -12,6 +12,18 @@ LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Googl
 x install one-api
 ```
 
+## Code insight
+
+Total: **52,956** lines of code across **509** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| JavaScript | 30,396 | 930 | 2,022 | 242 |
+| Go | 19,605 | 525 | 2,049 | 235 |
+| Json | 1,887 | 0 | 0 | 10 |
+| Svg | 361 | 0 | 1 | 19 |
+| Css | 271 | 17 | 54 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/songquanpeng/one-api>
@@ -24,18 +36,9 @@ x install one-api
 - **Last commit**: 2025-02-21
 - **Assets in release**: 4
 
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [one-api](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api) | 64.8 MiB | `other` |
-| [one-api-arm64](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-arm64) | 63.6 MiB | `other` |
-| [one-api-macos](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-macos) | 77.5 MiB | `native/darwin/x64` |
-| [one-api.exe](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api.exe) | 35.2 MiB | `other` |
-
 ## Popularity
 
-- **Stars**: 36,839 · **Forks**: 6,856 · **Open issues**: 1,829 · **Contributors**: 135
+- **Stars**: 36,840 · **Forks**: 6,856 · **Open issues**: 1,829 · **Contributors**: 135
 
 ## Totals (cumulative)
 
@@ -46,20 +49,20 @@ x install one-api
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 5 | 0 | 2 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 5 | 0 | 7 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 6 | 2 | 19 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 26 | 4 | 38 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 32 | 11 | 64 | 0 |
+| last720d | 2024-09-20 | 2 | 41 | 72 | 115 | 332 | 221 |
 
-## Code size
+## Release assets
 
-Total: **52,956** lines of code across **509** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| JavaScript | 30,396 | 930 | 2,022 | 242 |
-| Go | 19,605 | 525 | 2,049 | 235 |
-| Json | 1,887 | 0 | 0 | 10 |
-| Svg | 361 | 0 | 1 | 19 |
-| Css | 271 | 17 | 54 | 3 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [one-api](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api) | 64.8 MiB | `other` |
+| [one-api-arm64](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-arm64) | 63.6 MiB | `other` |
+| [one-api-macos](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api-macos) | 77.5 MiB | `native/darwin/x64` |
+| [one-api.exe](https://github.com/songquanpeng/one-api/releases/download/v0.6.10/one-api.exe) | 35.2 MiB | `other` |
 
 ## Improve this data
 
@@ -70,4 +73,4 @@ Install metadata for one-api lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:50Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:11:40Z._
