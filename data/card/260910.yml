@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.10"
   latestRelease: "v0.6.10"
   latestPrerelease: "v0.1.2-alpha.2"
-  collectedAt: 2026-09-10T15:56:45Z
+  collectedAt: 2026-09-10T20:11:33Z
 timeline:
   created: 2023-04-22
   lastCommit: 2025-02-21
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-02-02
   lastPrerelease: 2023-04-25
 popularity:
-  star: 36839
+  star: 36840
   watcher: 188
   fork: 6856
   release: 55
@@ -89,7 +89,7 @@ total:
   commit: 1210
 ---
 path: /home/runner/.x-repo/github.com/songquanpeng/one-api
-collectedAt: 2026-09-10T15:56:47Z
+collectedAt: 2026-09-10T20:11:35Z
 loc:
   JavaScript:
     code: 30396
