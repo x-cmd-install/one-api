@@ -4,7 +4,7 @@
 
 LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
-![one-api](https://repo.x-cmd.io/one-api.svg)
+[![x-cmd/install — one-api Code Quality Monitoring Repo Card](https://repo.x-cmd.io/one-api.svg)](https://x-cmd.com/install/one-api)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **52,956** lines of code across **509** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,938 · **Forks**: 6,868 · **Open issues**: 1,830 · **Contributors**: 135
+- **Stars**: 36,961 · **Forks**: 6,868 · **Open issues**: 1,833 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 287 · **Open PRs**: 103 · **Closed issues**: 898 · **Open issues**: 932 · **Commits**: 1210
+- **Releases**: 55 · **Merged PRs**: 287 · **Open PRs**: 103 · **Closed issues**: 898 · **Open issues**: 935 · **Commits**: 1210
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 4 | 0 | 2 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 5 | 0 | 9 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 6 | 0 | 16 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 25 | 4 | 38 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 31 | 11 | 63 | 0 |
-| last720d | 2024-09-28 | 2 | 38 | 72 | 107 | 316 | 206 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 5 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 5 | 0 | 11 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 6 | 0 | 19 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 25 | 4 | 41 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 31 | 11 | 66 | 0 |
+| last720d | 2024-09-30 | 2 | 36 | 72 | 107 | 315 | 206 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for one-api lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T02:38:38Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T02:50:25Z._

@@ -4,7 +4,7 @@
 
 LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
-![one-api](https://repo.x-cmd.io/one-api.svg?lang=zh)
+[![x-cmd/install — one-api Code Quality Monitoring Repo Card](https://repo.x-cmd.io/one-api.svg?lang=zh)](https://x-cmd.com/install/one-api)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install one-api
 
 ## 流行度
 
-- **Star**: 36,938 · **Fork**: 6,868 · **开放 issue**: 1,830 · **贡献者**: 135
+- **Star**: 36,961 · **Fork**: 6,868 · **开放 issue**: 1,833 · **贡献者**: 135
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 287 · **开放 PR**: 103 · **已关闭 issue**: 898 · **开放 issue**: 932 · **提交数**: 1210
+- **发布数**: 55 · **已合并 PR**: 287 · **开放 PR**: 103 · **已关闭 issue**: 898 · **开放 issue**: 935 · **提交数**: 1210
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 4 | 0 | 2 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 5 | 0 | 9 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 6 | 0 | 16 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 25 | 4 | 38 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 31 | 11 | 63 | 0 |
-| last720d | 2024-09-28 | 2 | 38 | 72 | 107 | 316 | 206 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 5 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 5 | 0 | 11 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 6 | 0 | 19 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 25 | 4 | 41 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 31 | 11 | 66 | 0 |
+| last720d | 2024-09-30 | 2 | 36 | 72 | 107 | 315 | 206 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ one-api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T02:38:39Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T02:50:25Z._
