@@ -4,7 +4,7 @@
 
 LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
-[![x-cmd/install — one-api Code Quality Monitoring Repo Card](https://repo.x-cmd.io/one-api.svg?lang=zh)](https://x-cmd.com/install/one-api)
+[![x-cmd/install — one-api Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/one-api.svg?lang=zh)](https://x-cmd.com/install/one-api)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install one-api
 
 ## 流行度
 
-- **Star**: 36,983 · **Fork**: 6,869 · **开放 issue**: 1,833 · **贡献者**: 135
+- **Star**: 36,990 · **Fork**: 6,865 · **开放 issue**: 1,833 · **贡献者**: 135
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install one-api
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 4 | 0 | 5 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 5 | 0 | 10 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 6 | 0 | 19 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 25 | 4 | 40 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 31 | 11 | 66 | 0 |
-| last720d | 2024-10-02 | 2 | 36 | 71 | 107 | 314 | 206 |
+| 30d | 2026-08-24 | 0 | 0 | 4 | 0 | 5 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 5 | 0 | 9 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 6 | 0 | 18 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 25 | 4 | 40 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 30 | 11 | 65 | 0 |
+| last720d | 2024-10-03 | 2 | 36 | 71 | 107 | 314 | 206 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ one-api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T02:47:40Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T02:49:05Z._
