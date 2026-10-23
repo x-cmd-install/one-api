@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"one-api-bin","binname":"one-api-bin","visiblename":"one-api-bin","version":"0.6.10","origversion":"0.6.10-1","status":"unique","summary":"LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.(Prebuilt version)","maintainers":["zxp19821005@aur"],"licenses":["MIT"]}]
